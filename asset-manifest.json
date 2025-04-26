@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ce6f2841.css",
+    "main.js": "/portfolio/static/js/main.e57a8a60.js",
+    "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/farmwise.jpg": "/portfolio/static/media/farmwise.389e4f8de4eb0cd7c99c.jpg",
+    "static/media/img3.jpeg": "/portfolio/static/media/img3.ec6043ba393b0a2394d2.jpeg",
+    "static/media/img2.jpeg": "/portfolio/static/media/img2.9fbe3dd3a75b3c736421.jpeg",
+    "static/media/img1.jpeg": "/portfolio/static/media/img1.8639b48f05e2ce0f8aa4.jpeg",
+    "static/media/img6.jpeg": "/portfolio/static/media/img6.44fbe851305e1ab2a5af.jpeg",
+    "static/media/img4.jpeg": "/portfolio/static/media/img4.c071b2df2d71500f7ae1.jpeg",
+    "static/media/img5.jpeg": "/portfolio/static/media/img5.f65e02be52cf9e881f96.jpeg",
+    "static/media/battlearena.jpg": "/portfolio/static/media/battlearena.f6ad14047bad2e41124c.jpg",
+    "static/media/resume.png": "/portfolio/static/media/resume.83a507c5891c7200260a.png",
+    "static/media/ppic.jpeg": "/portfolio/static/media/ppic.87d2495f6d655979d4d2.jpeg",
+    "static/media/blog.jpg": "/portfolio/static/media/blog.a3f18f313496a206a67e.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.ce6f2841.css.map": "/portfolio/static/css/main.ce6f2841.css.map",
+    "main.e57a8a60.js.map": "/portfolio/static/js/main.e57a8a60.js.map",
+    "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce6f2841.css",
+    "static/js/main.e57a8a60.js"
+  ]
+}
